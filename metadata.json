@@ -1,0 +1,6 @@
+{
+  "name": "BrandShield AI",
+  "description": "AI-powered Digital Risk Protection platform for detecting brand impersonation, fraudulent social profiles, phishing domains, malicious APKs, and coordinated scam campaigns.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

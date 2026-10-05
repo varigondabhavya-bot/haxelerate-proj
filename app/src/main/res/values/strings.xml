@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">BrandShield AI</string>
+    <string name="splash_subtitle">AI-Powered Digital Risk Protection</string>
+    <string name="login_title">Security Operations Portal</string>
+    <string name="login_email_label">Analyst Email</string>
+    <string name="login_password_label">Security Key / Password</string>
+    <string name="login_button">LOGIN TO SOC</string>
+    <string name="login_sso">Enterprise SSO</string>
+    <string name="login_biometric">Biometric Auth</string>
+    <string name="login_forgot_password">Forgot Password?</string>
+    <string name="nav_dashboard">Dashboard</string>
+    <string name="nav_threats">Threats</string>
+    <string name="nav_scanner">Scanners</string>
+    <string name="nav_campaigns">Campaigns</string>
+    <string name="nav_brands">Brands</string>
+    <string name="hero_banner_desc">BrandShield AI Threat Intelligence Network</string>
+    <string name="api_key_security_warning">Security Warning: API keys included in prototype APK. Do not share publicly.</string>
+    <string name="confirm_threat">Confirm Threat</string>
+    <string name="mark_safe">Mark Safe</string>
+    <string name="investigate">Investigate</string>
+    <string name="assign_analyst">Assign Analyst</string>
+    <string name="escalate">Escalate</string>
+    <string name="report_takedown">Report Takedown</string>
+    <string name="resolve_incident">Resolve Incident</string>
+</resources>
